@@ -1,0 +1,6 @@
+Name: Ace Clavano
+stdID: 201007000
+Level(s): U
+Number Of Terms: 2
+College(s): College2
+Department(s): C2Department1

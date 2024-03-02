@@ -1,0 +1,6 @@
+Name: Aira Estur
+stdID: 201009000
+Level(s): G
+Number Of Terms: 4
+College(s): College5
+Department(s): C5Department1

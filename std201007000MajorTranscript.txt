@@ -1,0 +1,21 @@
+
+Name: Ace Clavano                  stdID: 201007000                                  
+College: College2                  Department: C2Department1                         
+Major: C2D1MajorBS1                Minor: C2D1MinorBS1                               
+Level: U                           Number of terms: 2                                
+====================================================
+****************       Term 1       ****************
+====================================================
+Course ID      Course name    Credit hours   Grade          
+CA1            CourseA1       3              73             
+CA3            CourseA3       4              78             
+Major Average = 75.5          Overall Average = 79          
+====================================================
+****************       Term 2       ****************
+====================================================
+Course ID      Course name    Credit hours   Grade          
+CA6            CourseA6       3              86             
+Major Average = 86            Overall Average = 79          
+====================================================
+*******   End of transcript for level (U)   *******
+====================================================

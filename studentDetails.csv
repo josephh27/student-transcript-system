@@ -1,0 +1,11 @@
+Serial,stdID,Name,College,Department,Level,Degree,Major,Minor,Terms
+1,201006000,Amado Nino Punzalan,College1,C1Department1,U,BS1,C1D1MajorBS1,C1D1MinorBS1,3
+2,201006000,Amado Nino Punzalan,College1,C1Department1,G,M1,C1D1MajorM1,C1D1MinorM1,4
+3,201007000,Ace Clavano,College1,C1Department1,G,D1,C1D1MajorD1,C1D1MinorD1,4
+4,201007000,Ace Clavano,College2,C2Department1,U,BS1,C2D1MajorBS1,C2D1MinorBS1,2
+5,201008000,Harold Amad,College3,C3Department1,U,BS1,C3D1MajorBS1,C3D1MinorBS1,4
+6,201008000,Harold Amad,College1,C1Department1,G,M1,C1D1MajorM1,C1D1MinorM1,3
+7,201008000,Harold Amad,College4,C4Department2,G,D1,C4D2MajorD1,C4D2MinorD1,2
+8,201009000,Aira Estur,College4,C4Department2,U,BS1,C4D2MajorBS1,C4D2MinorM1,3
+9,201009000,Aira Estur,College5,C5Department1,G,M1,C5D1MajorM1,C5D1MinorD1,4
+10,201005000,Joseph Jason Buhain,College3,C3Department1,U,BS1,C3D1MajorBS1,C3D1MinorBS1,3

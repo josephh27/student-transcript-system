@@ -1,0 +1,13 @@
+============================================================
+***********        Graduate(M) Level        ***********
+============================================================
+Overall average (major and minor) for all terms: 78.6
+Term 1: 81
+Term 2: 69
+Term 3: 79.5
+Term 4: 81.75
+Maximum grade(s) and in which term(s): 87 in term ['4']
+Minimum grade(s) and in which term(s): 63 in term ['2']
+Do you have any repeated course(s)? False
+
+            
